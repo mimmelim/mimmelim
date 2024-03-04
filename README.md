@@ -1,5 +1,5 @@
 ### Hi there 👋
-Stort sett prøver jeg å legge ut informasjon om prosjekter fra jobben min. Meeeen jeg er ikke veldig aktiv på disse sidene. Sjekk ut min [mimmelim.github.io](https://mimmelim.github.io/) for å se hvilke fag jeg underviser.
+Jeg tester ut GitHub, og prøver å legge ut noen prosjekter fra jobben min. Meeeen jeg er ikke veldig aktiv på disse sidene. Sjekk ut min [mimmelim.github.io](https://mimmelim.github.io/) for å se hvilke fag jeg underviser.
 
 <!--
 **mimmelim/mimmelim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
